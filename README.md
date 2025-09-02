@@ -17,7 +17,7 @@ This is a simple Slack Bot that automates tasks and responds to messages in a Sl
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/slack-bot.git` then `cd slack-bot`
+1. Clone the repository: `https://github.com/sanjanaa-create/slack-bot-demo` then `cd slack-bot`
 2. (Optional) Create a virtual environment: `python -m venv venv`; activate with `source venv/bin/activate` (macOS/Linux) or `venv\Scripts\activate` (Windows)
 3. Install dependencies: `pip install -r requirements.txt`
 
